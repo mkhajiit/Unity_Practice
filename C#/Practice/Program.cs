@@ -2,6 +2,7 @@
 {
   static void Main()
   {
-    Console.WriteLine("안녕 세상!");
+    ArrayPrac ap = new ArrayPrac();
+    ap.Run();
   }
 }
