@@ -1,0 +1,35 @@
+## Build output
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+*.pdb
+
+## Visual Studio specific
+.vs/
+*.dbmdl
+*.opendb
+*.jfm
+
+## Logs
+*.log
+
+## NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## Dotnet tools
+*.dll
+*.exe
