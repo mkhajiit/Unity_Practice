@@ -4,9 +4,6 @@ class ArrayPrac
   List<string> students = new List<string>();
   public void Run()
   {
-    Console.InputEncoding = Encoding.UTF8;
-    Console.OutputEncoding = Encoding.UTF8;
-
     while(true)
     {
       string input = ShowInputInfo();
