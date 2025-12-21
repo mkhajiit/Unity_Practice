@@ -8,5 +8,7 @@ class Program
     // sol.Run();
     ArraySolutions arraySolution = new ArraySolutions();
     arraySolution.Run();
+    TransPrac tp = new TransPrac();
+    tp.Run();
   }
 }
